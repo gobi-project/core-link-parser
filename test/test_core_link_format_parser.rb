@@ -1,8 +1,6 @@
 require 'test/unit'
 require 'core_link_format_parser'
 
-##
-# autor: Malte Husmann
 class CoRELinkParserTest < Test::Unit::TestCase
   def test_parse_single_res
     test_res_string = '</s/lt>;rt="gobi.sen.lt";if="core.s"'

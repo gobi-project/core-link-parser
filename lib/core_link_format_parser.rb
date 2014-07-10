@@ -1,5 +1,3 @@
-##
-# author: Malte Husmann
 
 CoRELinkParseException = Class.new(Exception)
 
